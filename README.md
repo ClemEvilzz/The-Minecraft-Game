@@ -35,7 +35,7 @@
     /kit builder
 
 ## Worldedit
-[Guide complet][https://minecraft.fr/world-edit/]
+[Guide complet](https://minecraft.fr/world-edit/)
 
 ### Se munir de la hache magique
     //wand
