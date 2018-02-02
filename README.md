@@ -22,6 +22,7 @@
 - Add server
     + Nom : The Minecraft Game (ou ce que vous voulez)
     + IP : 25.23.81.211
+- Rejoindre le serveur
 
 # Commandes serveur
 ## Groupes : 
