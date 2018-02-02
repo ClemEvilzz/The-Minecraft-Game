@@ -1,4 +1,4 @@
-# Commandes servuer
+# Commandes serveur
 ## Groupes : 
 - Admin
 - MJ
@@ -32,16 +32,6 @@
 
 ###CTRL + Z
     //undo
-
-
-[//wand][Se munir de la hache]
-
-    Une fois la  hache en main, faire clique droit fixe le premier point et faire clique gauche fixe le deuxième point, la sélection est un parallélépipède rectangle ayant les deux points sélectionnés comme opposés.
-[//set [nom du bloc (sand,dirt,stone,restoneblock]][Remplacer la sélection par le bloc indiqué]
-[//cut][Coupe la sélection là où est le joueur]
-[//copy][Copie la sélection là où est le joueur, comme cut mais sans supprimer]
-[//paste][Colle la sélection là où est le joueur]
-[//undo][C'est comme un CTRL+Z]
 
 ## Administrateurs
 ###Lien permissions
