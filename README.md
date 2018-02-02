@@ -16,7 +16,7 @@
     //wand
 Une fois la  hache en main, appuyer sur clique gauche fixe le premier point et appuyer sur droit gauche fixe le deuxième point, la sélection est un parallélépipède rectangle ayant les deux points sélectionnés comme opposés.
  
-### Remplacer la sélection par un bloc__
+### Remplacer la sélection par un bloc
 
     //set [nom du bloc ou id]
 
