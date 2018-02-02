@@ -8,7 +8,7 @@
     + S'il y a une erreur du type "couldn't set pixel format", mettre à jour vos composants graphiques (Gestionnaire des périphériques > Cartes graphiques > Clique droit + Mettre à jour le pilote sur chaque carte graphique)
 
 ## Télécharger et ouvrir Hamachi
-Lien : https://www.vpn.net/
+- Télécharger Hamachi : https://www.vpn.net/
 - Ouvrir le fichier et installer
 - Ouvrir Hamachi et s'inscrire
 ## Simuler un réseau LAN
