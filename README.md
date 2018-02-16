@@ -3,8 +3,8 @@
 - Avoir ou télécharger Java : https://www.java.com/fr/
 - Accédez au lien suivant : https://drive.google.com/drive/folders/1o3OrFAQ8AX-tV0EZvwX9YwY6LSuTbjPj?usp=sharing
 - Télécharger le dossier "mc"
+- Ouvrir jarfix.exe.
 - Ouvrir SkaiaCraft_Launcher avec Java.
-    + Si cela ne marche pas, ouvrir jarfix.exe avant et réessayer
     + S'il y a une erreur du type "couldn't set pixel format", mettre à jour vos composants graphiques (Gestionnaire des périphériques > Cartes graphiques > Clique droit + Mettre à jour le pilote sur chaque carte graphique)
 
 ## Télécharger et ouvrir Hamachi
