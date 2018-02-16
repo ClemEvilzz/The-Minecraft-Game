@@ -1,7 +1,7 @@
 # Se connecter au serveur
 ## Télécharger et ouvrir Minecraft
 - Avoir ou télécharger Java : https://www.java.com/fr/
-- Accédez au lien suivant : https://drive.google.com/drive/u/0/folders/1o3OrFAQ8AX-tV0EZvwX9YwY6LSuTbjPj
+- Accédez au lien suivant : https://drive.google.com/drive/folders/1o3OrFAQ8AX-tV0EZvwX9YwY6LSuTbjPj?usp=sharing
 - Télécharger le dossier "mc"
 - Ouvrir SkaiaCraft_Launcher avec Java.
     + Si cela ne marche pas, ouvrir jarfix.exe avant et réessayer
