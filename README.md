@@ -2,9 +2,8 @@
 ## Télécharger et ouvrir Minecraft
 - Avoir ou télécharger Java : https://www.java.com/fr/
 - Accédez au lien suivant : https://drive.google.com/drive/folders/1o3OrFAQ8AX-tV0EZvwX9YwY6LSuTbjPj?usp=sharing
-- Télécharger le dossier "mc"
-- Ouvrir jarfix.exe.
-- Ouvrir SkaiaCraft_Launcher avec Java.
+- Télécharger le dossier "Minecraft.Shiginima.SE.Launcher.v3.100"
+- Ouvrir les fichiers à l'intérieur avec JAVA.
     + S'il y a une erreur du type "couldn't set pixel format", mettre à jour vos composants graphiques (Gestionnaire des périphériques > Cartes graphiques > Clique droit + Mettre à jour le pilote sur chaque carte graphique)
 
 ## Télécharger et ouvrir Hamachi
