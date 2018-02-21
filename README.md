@@ -34,8 +34,11 @@
 ### Se munir du meilleur kit de construction
     /kit builder
 
-## Worldedit
+## WorldEdit - Construction
+
 [Guide complet](https://minecraft.fr/world-edit/)
+
+### Connaître l'ID d'un bloc : F3 + H
 
 ### Se munir de la hache magique
     //wand
