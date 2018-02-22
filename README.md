@@ -10,6 +10,7 @@
 - Télécharger Hamachi : https://www.vpn.net/
 - Ouvrir le fichier et installer
 - Ouvrir Hamachi et s'inscrire
+
 ## Simuler un réseau LAN
 - Avec Hamachi : Onglet Réseau -> Rejoindre un réseau
     + ID réseau : the_minecraft_game_3 ou the_minecraft_game_4 ou the_minecraft_game_5
