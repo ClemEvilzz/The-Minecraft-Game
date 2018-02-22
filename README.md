@@ -12,7 +12,7 @@
 - Ouvrir Hamachi et s'inscrire
 ## Simuler un réseau LAN
 - Avec Hamachi : Onglet Réseau -> Rejoindre un réseau
-    + ID réseau : the_minecraft_game_2 ou the_minecraft_game_3 ou the_minecraft_game_4
+    + ID réseau : the_minecraft_game_3 ou the_minecraft_game_4 ou the_minecraft_game_5
     + Mot de passe : fan2018 
 
 ## Se connecter au serveur
